@@ -1,2 +1,3 @@
 # Technique-learnt-on-lucid-
-Description of technique learnt of github on lucid 
+Description of technique learnt of github on lucid
+ 
